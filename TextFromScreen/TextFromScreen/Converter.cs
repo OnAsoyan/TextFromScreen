@@ -12,11 +12,7 @@ using System.ComponentModel;
 namespace TextFromDesc
 {
      class  Converter
-    {/// <summary>
-    /// 
-    /// </summary>
-    /// <param name="progressBar"></param>
-    /// <param name="label"></param>
+    {
         public Converter(ProgressBar progressBar, Label label)
         {
             this.progressBar = progressBar;
