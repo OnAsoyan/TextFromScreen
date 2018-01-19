@@ -17,8 +17,7 @@ namespace TextFromDesc
         {
             this.progressBar = progressBar;
             this.label = label;
-        }
-
+        } 
         private ProgressBar progressBar = new ProgressBar();
         private BackgroundWorker bw = new BackgroundWorker(); 
         private Bitmap btn = null;
