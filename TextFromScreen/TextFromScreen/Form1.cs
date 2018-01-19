@@ -18,8 +18,6 @@ namespace TextFromDesc
         {
             InitializeComponent();
             this.Location = new Point(0,0);
-            //this.Width = Screen.PrimaryScreen.WorkingArea.Width;
-            //this.Height = Screen.PrimaryScreen.WorkingArea.Height;
         } 
         private void button1_Click(object sender, EventArgs e)
         { 
